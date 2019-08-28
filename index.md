@@ -1,16 +1,14 @@
 ## Welcome to Glenito's GitHub Pages
 [LinkedIn Profile](https://www.linkedin.com/in/glenim/)
 
-```markdown
-
 **Area of Interest**: GCP, Machine Learning, REST API, Business Analytics (A/B testing, Cohort analysis, Product/Market Fit..)
 
+
+```markdown
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
