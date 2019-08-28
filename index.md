@@ -4,12 +4,12 @@
 **Area of Interest**: GCP, Machine Learning, REST API, Business Analytics (A/B testing, Cohort analysis, Product/Market Fit..)
 
 
-```markdown
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Syntax highlighted code block
+
+```markdown
 
 # Header 1
 ## Header 2
