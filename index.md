@@ -1,7 +1,8 @@
 ## Welcome to Glenito's GitHub Pages
+```markdown
+**[LinkedIn Profile](https://www.linkedin.com/in/glenim/)**
 
-[LinkedIn Profile](https://www.linkedin.com/in/glenim/)
-Area of Interest: GCP, Machine Learning, REST API, Business Analytics (A/B testing, Cohort analysis, Product/Market Fit..)
+**Area of Interest**: GCP, Machine Learning, REST API, Business Analytics (A/B testing, Cohort analysis, Product/Market Fit..)
 
 
 ### Markdown
