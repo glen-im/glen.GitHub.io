@@ -1,37 +1,34 @@
 ## Welcome to Glenito's GitHub Pages
+
+### Glen Heungyong Im
+#### Data Science Consultant at Companion Medical, Inc.[InPen](https://www.companionmedical.com/?utm_source=google-lg&utm_medium=cpc&utm_campaign=gads-lg&gclid=Cj0KCQjw753rBRCVARIsANe3o47pw1g4DxRbA6LLoY_EYxv97ARRaFJGsZWBwTsl9QYcS3VrzxcZ01waAh-9EALw_wcB)
 [LinkedIn Profile](https://www.linkedin.com/in/glenim/)
 
 **Area of Interest**: GCP, Machine Learning, REST API, Business Analytics (A/B testing, Cohort analysis, Product/Market Fit..)
 
 
-### Markdown
+### Program of Study
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Syntax highlighted code block
 
 ```markdown
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# FA 2018
+ - Project Management
+ - Software Development
+ - Operations and SCM
+ - Business Statistics
+ 
+# SP 2019
+ - Stat Methods in Text Analysis
+ - Business Analytics
+ - GIS Programming in Python
+ - Enterprise Data Management
+ - Multivare Time Series Analysis
+ 
+# FA 2019
+ - Machine Learning
+ - Big Data Platform 
+ - Marketing
+ - Statistical Computing
+ 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glen-im/glen.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
